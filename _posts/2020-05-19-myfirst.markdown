@@ -6,4 +6,4 @@ categories: jekyll Diary
 ---
 
 # 첫번째
-가나다라마바사
+jekyll로 블로그 변경 성공!
